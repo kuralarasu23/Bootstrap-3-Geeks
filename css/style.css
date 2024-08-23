@@ -77,7 +77,6 @@
   }
   .build-better {
     background: #ebeff4 url(../assets/image/image1.svg) no-repeat right top;
-    background-size: cover;
     text-transform: capitalize;
     background-position: center;
     min-height: 618px;
