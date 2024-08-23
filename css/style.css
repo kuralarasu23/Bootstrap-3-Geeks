@@ -22,6 +22,7 @@
     padding: 10px;
     border: none;
     border-radius: 8px;
+    cursor: not-allowed;
 }
 .socialicons {
     top: 13px;
@@ -100,6 +101,7 @@
     /* border: 1px solid #8960fe; */
     color: white;
     text-transform: capitalize;
+    cursor: not-allowed;
   }
   .offer:hover{
     background-color: #794ffe;
@@ -110,6 +112,7 @@
     color: #8960fe;
     text-transform: capitalize;
     border: 1px solid #8960fe !important;
+    cursor: not-allowed;
   }
   .plan:hover {
     background-color: #8960fe !important;
@@ -366,6 +369,7 @@
     background-color: var(--background-color);
     color: white;
     font-weight: 600;
+    cursor: not-allowed;
   }
   .testmonials .test {
     color: var(--background-color);
@@ -423,6 +427,7 @@
     color: white;
     text-transform: capitalize;
     font-weight: 600;
+    cursor: not-allowed;
   }
   .offers {
     background-color: var(--background-color);
